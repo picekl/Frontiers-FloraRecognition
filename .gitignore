@@ -132,7 +132,7 @@ dmypy.json
 # Metadata and Checkpoints
 *.pth
 *.csv
-
+*.npy
 
 # WandB
 
